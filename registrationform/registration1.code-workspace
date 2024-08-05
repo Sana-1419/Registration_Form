@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "registration",
+			"path": "."
+		},
+		{
+			"name": "page",
+			"path": "../page"
+		}
+	],
+	"settings": {}
+}
